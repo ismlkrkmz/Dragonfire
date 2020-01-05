@@ -301,7 +301,7 @@ that are retrieved from web, found by the subject
 
 <br>
 
-**Supported Distributions:** KDE neon, elementary OS and Ubuntu. All modern releases (Ubuntu 12.04 LTS and above) of these distributions are fully supported. Any other Ubuntu based distributions are partially supported.
+**Supported Distributions:** KDE neon, elementary OS and Ubuntu. All modern releases (Ubuntu 12.04 LTS and above stable versions) of these distributions are fully supported. Any other Ubuntu based distributions are partially supported.
 
 ### Contribute
 
